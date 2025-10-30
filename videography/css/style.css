@@ -1122,7 +1122,7 @@ body {
 
 @media (max-width:767px) {
   .banner-content {
-    padding: 0px;
+    padding: 10px 0;
   }
 
   .tab-banner {
@@ -1327,6 +1327,7 @@ body {
   }
 
 }
+
 
 
 
