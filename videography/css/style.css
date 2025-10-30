@@ -1122,7 +1122,7 @@ body {
 
 @media (max-width:767px) {
   .banner-content {
-    padding: 80px 0px;
+    /* padding: 80px 0px; */
   }
 
   .tab-banner {
@@ -1138,6 +1138,7 @@ body {
     text-transform: uppercase;
     margin-bottom: 38px;
     position: relative;
+    margin-top:100px;
   }
 
   .transparent-navbar {
@@ -1324,3 +1325,4 @@ body {
   }
 
 }
+
