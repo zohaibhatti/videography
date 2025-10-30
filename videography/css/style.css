@@ -1129,7 +1129,9 @@ body {
     background-color: #100028;
     padding: 40px 0px;
   }
-
+.content1{
+  margin-top:100px;
+}
   .content1 h2 {
     color: #ffffff;
     font-size: 30px;
@@ -1138,7 +1140,7 @@ body {
     text-transform: uppercase;
     margin-bottom: 38px;
     position: relative;
-    margin-top:100px;
+    
   }
 
   .transparent-navbar {
@@ -1325,4 +1327,5 @@ body {
   }
 
 }
+
 
